@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Assaí",
+  "description": "Relatório de Performance da Campanha de São João 2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
