@@ -20,7 +20,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-6 py-4">
           <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
             <div>
-              <h1 className="text-xl font-bold tracking-tight">Relatório Gerencial de Performance - São João 2026</h1>
+              <h1 className="text-xl font-bold tracking-tight">Relatório Gerencial de Performance - São João</h1>
               <p className="mt-1 text-xs opacity-80 uppercase tracking-widest">Relatório Executivo | Assaí Atacadista</p>
             </div>
             <div className="flex flex-col items-end gap-2">
